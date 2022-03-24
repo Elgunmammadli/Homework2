@@ -1,0 +1,16 @@
+C:\Users\ElgunPC\Desktop\Kurs_csharp\Homework2\Task15\bin\Debug\net5.0\Task15.exe
+C:\Users\ElgunPC\Desktop\Kurs_csharp\Homework2\Task15\bin\Debug\net5.0\Task15.deps.json
+C:\Users\ElgunPC\Desktop\Kurs_csharp\Homework2\Task15\bin\Debug\net5.0\Task15.runtimeconfig.json
+C:\Users\ElgunPC\Desktop\Kurs_csharp\Homework2\Task15\bin\Debug\net5.0\Task15.runtimeconfig.dev.json
+C:\Users\ElgunPC\Desktop\Kurs_csharp\Homework2\Task15\bin\Debug\net5.0\Task15.dll
+C:\Users\ElgunPC\Desktop\Kurs_csharp\Homework2\Task15\bin\Debug\net5.0\Task15.pdb
+C:\Users\ElgunPC\Desktop\Kurs_csharp\Homework2\Task15\obj\Debug\net5.0\Task15.csproj.AssemblyReference.cache
+C:\Users\ElgunPC\Desktop\Kurs_csharp\Homework2\Task15\obj\Debug\net5.0\Task15.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ElgunPC\Desktop\Kurs_csharp\Homework2\Task15\obj\Debug\net5.0\Task15.AssemblyInfoInputs.cache
+C:\Users\ElgunPC\Desktop\Kurs_csharp\Homework2\Task15\obj\Debug\net5.0\Task15.AssemblyInfo.cs
+C:\Users\ElgunPC\Desktop\Kurs_csharp\Homework2\Task15\obj\Debug\net5.0\Task15.csproj.CoreCompileInputs.cache
+C:\Users\ElgunPC\Desktop\Kurs_csharp\Homework2\Task15\obj\Debug\net5.0\Task15.dll
+C:\Users\ElgunPC\Desktop\Kurs_csharp\Homework2\Task15\obj\Debug\net5.0\refint\Task15.dll
+C:\Users\ElgunPC\Desktop\Kurs_csharp\Homework2\Task15\obj\Debug\net5.0\Task15.pdb
+C:\Users\ElgunPC\Desktop\Kurs_csharp\Homework2\Task15\obj\Debug\net5.0\Task15.genruntimeconfig.cache
+C:\Users\ElgunPC\Desktop\Kurs_csharp\Homework2\Task15\obj\Debug\net5.0\ref\Task15.dll

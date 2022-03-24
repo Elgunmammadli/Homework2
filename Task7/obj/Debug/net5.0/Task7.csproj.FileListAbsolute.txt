@@ -1,0 +1,16 @@
+C:\Users\ElgunPC\Desktop\Kurs_csharp\Homework2\Task7\bin\Debug\net5.0\Task7.exe
+C:\Users\ElgunPC\Desktop\Kurs_csharp\Homework2\Task7\bin\Debug\net5.0\Task7.deps.json
+C:\Users\ElgunPC\Desktop\Kurs_csharp\Homework2\Task7\bin\Debug\net5.0\Task7.runtimeconfig.json
+C:\Users\ElgunPC\Desktop\Kurs_csharp\Homework2\Task7\bin\Debug\net5.0\Task7.runtimeconfig.dev.json
+C:\Users\ElgunPC\Desktop\Kurs_csharp\Homework2\Task7\bin\Debug\net5.0\Task7.dll
+C:\Users\ElgunPC\Desktop\Kurs_csharp\Homework2\Task7\bin\Debug\net5.0\Task7.pdb
+C:\Users\ElgunPC\Desktop\Kurs_csharp\Homework2\Task7\obj\Debug\net5.0\Task7.csproj.AssemblyReference.cache
+C:\Users\ElgunPC\Desktop\Kurs_csharp\Homework2\Task7\obj\Debug\net5.0\Task7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ElgunPC\Desktop\Kurs_csharp\Homework2\Task7\obj\Debug\net5.0\Task7.AssemblyInfoInputs.cache
+C:\Users\ElgunPC\Desktop\Kurs_csharp\Homework2\Task7\obj\Debug\net5.0\Task7.AssemblyInfo.cs
+C:\Users\ElgunPC\Desktop\Kurs_csharp\Homework2\Task7\obj\Debug\net5.0\Task7.csproj.CoreCompileInputs.cache
+C:\Users\ElgunPC\Desktop\Kurs_csharp\Homework2\Task7\obj\Debug\net5.0\Task7.dll
+C:\Users\ElgunPC\Desktop\Kurs_csharp\Homework2\Task7\obj\Debug\net5.0\refint\Task7.dll
+C:\Users\ElgunPC\Desktop\Kurs_csharp\Homework2\Task7\obj\Debug\net5.0\Task7.pdb
+C:\Users\ElgunPC\Desktop\Kurs_csharp\Homework2\Task7\obj\Debug\net5.0\Task7.genruntimeconfig.cache
+C:\Users\ElgunPC\Desktop\Kurs_csharp\Homework2\Task7\obj\Debug\net5.0\ref\Task7.dll
